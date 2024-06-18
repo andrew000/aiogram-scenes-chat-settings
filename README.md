@@ -28,7 +28,7 @@ Deploy the project using docker-compose
 make up
 ```
 
-After deployment, consider use `/prepare` command to create prepare media files. Also, you can use deeplink in terminal.
+After deployment, consider use `/prepare` command to prepare media files. Also, you can use deeplink in terminal.
 ___
 
 ### How to use
