@@ -1,0 +1,15 @@
+*.mo
+*.pyc
+*.env
+/.idea/
+/.ruff_cache/
+/.venv/
+__pycache__/
+/app/bot/errors.log
+/errors.log
+/psql/data/
+/psql/pg_restore.exe
+/psql/pg_tools/
+/redis/data/
+/telegram-bot-api-data
+/tokei.exe

@@ -1,0 +1,6 @@
+.idea
+.venv
+.ruff_cache
+*.log
+**/*.py[cod]
+**/__pycache__/
